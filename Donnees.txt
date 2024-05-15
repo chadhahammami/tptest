@@ -1,4 +1,11 @@
 DonneeA
+<<<<<<< HEAD
 DonneeB
 DonneeC
 DonneeE
+=======
+DonneeBBB
+DonneeC
+DonneeD
+
+>>>>>>> Amelioration
